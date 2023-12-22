@@ -25,3 +25,20 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+div{
+  text-align: center;
+  font-weight: bold;
+  
+  h1{
+    font-size: 50px;
+    margin-top: 50px;
+  }
+  button{
+    background-color: aqua;
+    padding: 3px 15px;
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 30px;
+  }
+}
